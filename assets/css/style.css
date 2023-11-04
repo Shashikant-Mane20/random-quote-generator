@@ -1,26 +1,25 @@
 .container{
-	 height:50%;
-	 justify-content:center;
+     height:50%;
+     justify-content:center;
      margin: 20px 0;
-	 background-color:FF6969;
+     background-color:FF6969;
      color: #fff;
      border: none;
      padding: 10px 20px;
-	 font-size:27;
+     font-size:27;
   
 }
 
 
 body{
     text-align: center;
-	background-color:BEADFA;
+    background-color:BEADFA;
 	
 }
 
 button{
-
-	 background-color:FFB6D9;
-     padding: 10px 10px;
 	 border:none;
-	 color:FF6969;
+	 background-color:#FFB6D9;
+         padding: 10px 10px;
+	 color:#CD5C5C;
 }
