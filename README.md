@@ -12,9 +12,7 @@ A simple web application that generates random quotes along with their authors t
 
 ## Demo
 
-You can see a live demo of the Random Quote Generator here: [Demo Link](https://your-demolink.com)
-
-![Random Quote Generator Screenshot](screenshot.png)
+You can see a live demo of the Random Quote Generator here: [Demo Link](https://shashikant-mane20.github.io/random-quote-generator/)
 
 ## Features
 
