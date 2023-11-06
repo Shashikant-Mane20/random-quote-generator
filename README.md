@@ -29,8 +29,6 @@ You can see a live demo of the Random Quote Generator here: [Demo Link](https://
 
 1. Click the "Generate Quote" button to display a new random quote along with its author.
 
-2. Click the "Share" button to share the displayed quote on your social media accounts.
-
 ## Customization
 
 You can customize the Random Quote Generator by:
