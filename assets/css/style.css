@@ -1,25 +1,29 @@
 .container{
-     height:50%;
-     justify-content:center;
+	 max-height:900px;
+	 max-width:700px;
+	 justify-content:center;
      margin: 20px 0;
-     background-color:FF6969;
+	 background-color:FF6969;
      color: #fff;
-     border: none;
+     border-color: white;
+	 border-style: double;
+	 border-radius:40px;
      padding: 10px 20px;
-     font-size:27;
+	 font-size:27;
   
 }
 
 
 body{
     text-align: center;
-    background-color:BEADFA;
+	background-color:BEADFA;
 	
 }
 
 button{
-	 border:none;
 	 background-color:#FFB6D9;
-         padding: 10px 10px;
+     padding: 10px 10px;
 	 color:#CD5C5C;
+	 border-color:pink;
 }
+
