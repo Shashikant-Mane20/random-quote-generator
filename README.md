@@ -40,4 +40,4 @@ You can customize the Random Quote Generator by:
 To customize the list of quotes or authors, you can modify the API endpoint in the JavaScript code.
 
 ```javascript
-apiUrl = 'https://api.quotable.io/random'; // Replace with your desired API
+apiUrl = 'https://api.quotable.io/random'; // Replace with your desired Api
