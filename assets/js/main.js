@@ -9,7 +9,8 @@
 
 	function generate(){
 	
-	fetch('https://api.quotable.io/random')
+	// fetch('https://api.quotable.io/random')
+	fetch('https://programming-quotesapi.vercel.app/api/random')
 	 
         
        .then(response => response.json())
@@ -24,4 +25,5 @@
 }
 		btn.addEventListener('click',generate);
 		
+
 		generate();
