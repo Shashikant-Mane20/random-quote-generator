@@ -10,13 +10,13 @@
 	function generate(){
 	
 	// fetch('https://api.quotable.io/random')
-	fetch('https://programming-quotesapi.vercel.app/api/random')
+	fetch('https://quoteslate.vercel.app/api/quotes/random')
 	 
         
        .then(response => response.json())
        .then(data => {
 		// qut=document.getElementById("quote");
-	    qut.innerHTML= data.content;
+	    qut.innerHTML= data.quote;
 	    // aut=document.getElementById("author");
 		aut.innerHTML= "Author-"+data.author;
 		
